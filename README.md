@@ -33,5 +33,5 @@ The following image shows the web application's appearance and functionality:
 
 # Delpoyed Links
 
-https://github.com/Dyu4848/password_gen/blob/main/README.md
-https://github.com/Dyu4848/password_gen/settings/pages
+https://dyu4848.github.io/password_gen/
+https://github.com/Dyu4848/password_gen
